@@ -53,10 +53,7 @@ The EC311 Puck Project is a hardware-based implementation of a Pong-inspired gam
 - Adjust the VGA resolution by updating `vga_controller.v`.
 
 ## Authors
-- EC311 Team
-
-## License
-This project is for educational purposes and is distributed under the MIT License.
+- EC311 Puck Project Team
 
 ---
 
