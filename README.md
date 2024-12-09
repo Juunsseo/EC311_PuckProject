@@ -2,7 +2,7 @@
 # EC311 Puck Project
 
 ## Overview
-The EC311 Puck Project is a hardware-based implementation of a Pong-inspired game, designed to run on an FPGA platform using Verilog HDL. The project demonstrates digital design principles, including VGA display control, debouncing, and game logic.
+The EC311 Puck Project is a hardware-based implementation of a Pong-inspired game, designed to run on an FPGA platform using Verilog. The project demonstrates digital design principles, including VGA display control, debouncing, and game logic.
 
 ## Features
 - **Interactive Gameplay:** Paddle and ball mechanics inspired by Pong.
