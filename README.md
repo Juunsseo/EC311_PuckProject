@@ -18,7 +18,7 @@ The EC311 Puck Project is a hardware-based implementation of a Pong-inspired gam
 - **`vga_controller.v`**: Handles the VGA signal generation for display output.
 - **`debouncer.v`**: Processes button inputs to eliminate bouncing effects.
 - **`Nexys4DDR_Master.xdc`**: Constraints file for the Nexys4DDR FPGA board.
-- **`EC311 Final Project Presentation (2).pptx`**: A presentation summarizing the project.
+- **`EC311 Final Project Presentation.pptx`**: A presentation summarizing the project.
 
 ## Getting Started
 
