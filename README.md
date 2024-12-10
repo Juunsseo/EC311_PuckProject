@@ -55,6 +55,9 @@ The EC311 Puck Project is a hardware-based implementation of a Pong-inspired gam
 ## Authors
 - Vikram Singh Bhalla, Michael Daniels, Junseo Lee, Prashast Pandey
 
+## Demo Video
+https://youtu.be/TeToti020jk 
+
 
 ---
 
